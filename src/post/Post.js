@@ -451,7 +451,7 @@ export default function Post() {
                 <td>{post.title}</td>
                 <td>{post.description}</td>
                 <td>{post.author}</td>
-                <td></td>
+                <td>{post.comments.length}</td>
                 <td>
                   <button
                     className="button is-success is-size-5 mr-3 "

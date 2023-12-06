@@ -17,7 +17,7 @@ export default function Content() {
           </div>
           <div className="column is-fullheight box ml-6 mb-5">
             <div className="has-text-centered">
-              <button class="button is-link is-outlined">Task</button>
+              <button class="button is-link is-outlined"> Add Task</button>
             </div>
           </div>
         </div>
